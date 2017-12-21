@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/nlopes/slack"
+	"github.com/pasali/slack"
 	"github.com/uva-its/gopherbot/bot"
 )
 
